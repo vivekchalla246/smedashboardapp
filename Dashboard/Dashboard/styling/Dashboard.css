@@ -1,0 +1,15 @@
+.dashboard {
+  padding: 20px;
+}
+
+.loader {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 50px;
+}
+
+.error {
+  color: red;
+  text-align: center;
+  margin-top: 50px;
+}
